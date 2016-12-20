@@ -1,2 +1,3 @@
 # CANSofttech
-# Test this with new process….
+# Test this with new process…
+Test for another row kind.
